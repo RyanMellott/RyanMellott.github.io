@@ -1,0 +1,17 @@
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Python cache, if any scripts are in the folder
+__pycache__/
+*.pyc
+
+# Environment/secrets
+.env
+.env.*
